@@ -1,0 +1,14 @@
+.decent,
+.intrusive {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.decent {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.intrusive {
+    background-color: #fbde07;
+}
