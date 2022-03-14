@@ -57,10 +57,12 @@ ul {
 .left-container {
   display: flex;
   justify-content: flex-start;
-  
+  gap: 16px;
 }
 
 .right-container {
   display: flex;
   justify-content: flex-end;
+  gap: 16px;
 }
+
